@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adrianlopezgalera.github.io/sitemap.xml
