@@ -1,1 +1,1 @@
-Canonical: #PUBLII_RELATIVE_URL_BASE#/security.txt
+Canonical: https://adrianlopezgalera.github.io/security.txt
